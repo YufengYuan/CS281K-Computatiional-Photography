@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Abstract}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{4}{0}{2}
+\beamer@sectionintoc {3}{Some \LaTeX {} Examples}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Tables and Figures}{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Mathematics}{6}{0}{3}
